@@ -33,7 +33,7 @@ DRY after refactoring from seperate promote and demote methods.
 Specific, realiable controller testing for create, update, and delete. Decent testing for idea promotion/demotion.
 
 ### Link to a specific block of your code on Github that you feel not great about
-- [editIdea](https://github.com/stevepentler/IdeaBox/blob/master/app/assets/javascripts/edit_idea.js#L7): I tried to refactor this code on 5 seperate occassions, but kept running into a problem with the contentEditable function. Whenever I moved the contentEditable, I ran into scoping issues that prevented inline editing. 
+- [editIdea](https://github.com/stevepentler/IdeaBox/blob/master/app/assets/javascripts/edit_idea.js#L7): I tried to refactor this code on 5 seperate occassions, but kept running into a problem with the contentEditable function. I finally got it, but it still looks "chunky." I'm not a a fan of how much space the ideaParams take up, but they require a fair amount of local variables. 
 - [Selenium Integration Test](https://github.com/stevepentler/IdeaBox/blob/master/test/integration/create_idea_test.rb): This isn't pretty, but I was excited to get Selenium working. I had trouble selecting specific elements.
 
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
