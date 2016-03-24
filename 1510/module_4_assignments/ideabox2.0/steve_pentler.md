@@ -42,7 +42,7 @@ ideaBox ⚡ rake
 
 Run options: --seed 50462
 
-# Running:
+###### Running:
 
 **************
 
@@ -53,5 +53,6 @@ Fabulous run in 14.942947s, 0.9369 runs/s, 4.3499 assertions/s.
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
-[Missing Validations](https://github.com/stevepentler/IdeaBox/blob/master/test/controllers/ideas_controller_test.rb#L53)
+- [Missing Validations](https://github.com/stevepentler/IdeaBox/blob/master/test/controllers/ideas_controller_test.rb#L53)
+
 -----
