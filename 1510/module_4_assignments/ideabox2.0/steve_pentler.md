@@ -41,7 +41,7 @@ Specific, realiable controller testing for create, update, and delete. Decent te
 ideaBox ⚡ rake
 Run options: --seed 3743
 
-# Running:
+Running:
 
 ************
 
