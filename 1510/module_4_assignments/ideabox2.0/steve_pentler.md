@@ -39,18 +39,19 @@ Specific, realiable controller testing for create, update, and delete. Decent te
 ### Attach a screenshot or paste the output from your terminal of the result of your test-suite running.
 
 ideaBox ⚡ rake
-Run options: --seed 3743
 
-Running:
+Run options: --seed 50462
 
-************
+# Running:
 
-Fabulous run in 10.483874s, 1.1446 runs/s, 5.6277 assertions/s.
+**************
 
-12 runs, 59 assertions, 0 failures, 0 errors, 0 skips
+Fabulous run in 14.942947s, 0.9369 runs/s, 4.3499 assertions/s.
+
+14 runs, 65 assertions, 0 failures, 0 errors, 0 skips
 
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
 
-[Missing Title/Body](https://github.com/stevepentler/IdeaBox/blob/master/test/controllers/ideas_controller_test.rb#L53)
+[Missing Validations](https://github.com/stevepentler/IdeaBox/blob/master/test/controllers/ideas_controller_test.rb#L53)
 -----
