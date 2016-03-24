@@ -51,5 +51,5 @@ Fabulous run in 10.483874s, 1.1446 runs/s, 5.6277 assertions/s.
 
 
 ### Provide a link to an example, if you have one, of a test that covers an 'edge case' or 'unhappy path'
-
+[Missing Title/Body](https://github.com/stevepentler/IdeaBox/blob/master/test/controllers/ideas_controller_test.rb#L53)
 -----
